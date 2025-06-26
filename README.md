@@ -62,4 +62,4 @@ This step shows strong **data preparation, cleaning, and automation skills** oft
 
 ## ✅ Model Saving and Deployment
 
-- Saved the final trained model as:
+- Saved the final trained model as: cnn_area_classifier.keras

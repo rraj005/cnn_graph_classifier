@@ -19,8 +19,6 @@ It includes **custom dataset creation from web URLs**, **image cleaning and filt
   - Ensure dataset quality before training.
 - Checked for corrupted or incomplete image files.
 
-This step shows strong **data preparation, cleaning, and automation skills** often expected from a **Data Analyst or ML Engineer**.
-
 ---
 
 ## ✅ Graph Types Covered (Class Names)
